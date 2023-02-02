@@ -1,5 +1,6 @@
 # FreeCodeCamp-CS-Python-Projects
-## My 'Computer Science With Python' Certificate projects from FreeCodeCamp.
+### My 'Computer Science With Python' Certificate projects from FreeCodeCamp.
+
 
 - Arithmetic Formatter
 - Time Calculator
