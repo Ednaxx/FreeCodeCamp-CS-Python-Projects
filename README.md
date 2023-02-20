@@ -2,11 +2,11 @@
 ### My 'Computer Science With Python' Certificate projects from FreeCodeCamp.
 
 
-- Arithmetic Formatter
-- Time Calculator
-- Budget App
-- Polygon Area Calculator
-- Probability Calculator
+- Arithmetic Formatter ✅
+- Time Calculator ✅
+- Budget App ✅
+- Polygon Area Calculator ✅
+- Probability Calculator ✅
 
 
 [💻Course](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
